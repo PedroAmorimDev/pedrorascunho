@@ -11,11 +11,6 @@ body {
     padding: 20px;
 }
 
-h1 {
-    color: #000000; /* Cor do texto */
-    font-size: 36px;
-    text-transform: uppercase;
-}
 
 hr {
     border: 2px solid #000000; /* Cor das linhas horizontais */
