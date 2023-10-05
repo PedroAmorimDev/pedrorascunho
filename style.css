@@ -1,4 +1,9 @@
 /* Estilos gerais para o corpo da página */
+
+.t1{
+    font-family: 'Young Serif', serif;
+}
+
 body {
     background-color: #ddd9ce; /* Cor de fundo vibrante */
     font-family: Arial, sans-serif;
